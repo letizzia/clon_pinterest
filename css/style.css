@@ -1,0 +1,24 @@
+.color
+{
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    padding: 15px;
+}
+
+.icono_pinterest
+{
+  width: 32px;
+  height: 32px;
+ 
+}
+.icono_pinterest:hover
+{
+  width: 32px;
+  height: 32px;
+  background-color: grey;
+  border: 20px rgb(189, 181, 181) solid;
+  border-radius: 100%;
+ 
+}
+
